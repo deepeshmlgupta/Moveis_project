@@ -1,6 +1,6 @@
-import React, { useEffect, useRef } from 'react'
-import './TitleCards.css'
-import cards_data from '../../assets/cards/Cards_data'
+import React, { useEffect, useRef } from 'react';
+import './TitleCards.css';
+import cards_data from '../../Assets/cards/Cards_data';
 
 const TitleCards = ({title, category}) => {
 
